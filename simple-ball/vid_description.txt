@@ -1,0 +1,3 @@
+description:"simple ball bouncing around the screen"
+length:60
+resolution:1280x720

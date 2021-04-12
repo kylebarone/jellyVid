@@ -1,0 +1,3 @@
+description:"the video outputted by generation 1 is being used to train this generation. It is the video outputted inn reverse so it goes back to the normal video sped up.""
+length:26
+resolution:1280x720
